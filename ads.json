@@ -1,0 +1,6 @@
+{
+  "ads": {
+    "adsname1": "<a href='https://example.com'><img src='https://via.placeholder.com/300x250'></a>",
+    "adsname2": "<div style='background:#eee;padding:10px;text-align:center;'>إعلان نصي هنا</div>"
+  }
+}
